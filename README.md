@@ -22,8 +22,8 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: SUJITHRA B K N
+### Register Number: 212222230153
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
